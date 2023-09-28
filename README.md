@@ -19,7 +19,7 @@ TalkHealthy is a web application developed in Python that serves as an AI-powere
 ## How to Run
 1. Clone the repository to your local machine
 ```
-git clone https://github.com/Satyam-79/TalkHealthy.git
+git clone https://github.com/nikilsaini74/TalkHealthy.git
 ```
 2. Navigate to the project directory
 ```
