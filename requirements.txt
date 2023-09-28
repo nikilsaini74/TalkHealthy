@@ -1,0 +1,17 @@
+langchain==0.0.236
+chromadb==0.3.26
+llama-cpp-python==0.1.61
+urllib3==2.0.3
+PyMuPDF==1.22.3
+python-dotenv==1.0.0
+tqdm==4.65.0
+
+
+openai==0.27.8
+sentence_transformers==2.2.2
+torch==2.0.1
+fastapi==0.96.0
+uvicorn==0.22.0
+streamlit==1.23.1
+streamlit-chat==0.0.2.2
+streamlit-option-menu==0.3.6

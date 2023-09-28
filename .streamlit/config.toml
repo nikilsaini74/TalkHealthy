@@ -1,0 +1,10 @@
+[theme]
+base = "light"
+primaryColor = "#1e81b0"
+secondaryBackgroundColor = "#84c0d6"
+
+[server]
+port = 55555
+
+[browser]
+serverPort = 55555
